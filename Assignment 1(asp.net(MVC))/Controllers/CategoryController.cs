@@ -69,7 +69,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
         {
             var category = db.Categories.FirstOrDefault(x => x.CategoryId == id);
 
-            db.Categories.Remove(category);
+            db.Categories.Remove(   category);
             db.SaveChanges();
             return RedirectToAction("Index");
         }

@@ -281,3 +281,4 @@ C:\Users\hudas\source\repos\Assignment-1-asp.net-MVC-\Assignment 1(asp.net(MVC))
 C:\Users\hudas\source\repos\Assignment-1-asp.net-MVC-\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).pdb
 C:\Users\hudas\source\repos\Assignment-1-asp.net-MVC-\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).genruntimeconfig.cache
 C:\Users\hudas\source\repos\Assignment-1-asp.net-MVC-\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\ref\Assignment 1(asp.net(MVC)).dll
+C:\Users\hudas\source\repos\Assignment-1-asp.net-MVC-\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).sourcelink.json

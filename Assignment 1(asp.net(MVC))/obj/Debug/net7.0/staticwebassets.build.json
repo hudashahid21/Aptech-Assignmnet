@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W8U31kgjnK0oQTAfjE5koh6SNVg4ct+0+IoWqzz/4E4=",
+  "Hash": "1cyAS9fnXj9eyj3+LTnkxJ9U9dWijH9WN4T95xWlDd0=",
   "Source": "Assignment 1(asp.net(MVC))",
   "BasePath": "_content/Assignment 1(asp.net(MVC))",
   "Mode": "Default",
@@ -25380,6 +25380,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\20240731204037.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\hudas\\source\\repos\\Assignment-1-asp.net-MVC-\\Assignment 1(asp.net(MVC))\\wwwroot\\Uploads\\20240731221923.jpeg",
+      "SourceId": "Assignment 1(asp.net(MVC))",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hudas\\source\\repos\\Assignment-1-asp.net-MVC-\\Assignment 1(asp.net(MVC))\\wwwroot\\",
+      "BasePath": "_content/Assignment 1(asp.net(MVC))",
+      "RelativePath": "Uploads/20240731221923.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\20240731221923.jpeg"
     },
     {
       "Identity": "C:\\Users\\hudas\\source\\repos\\Assignment-1-asp.net-MVC-\\Assignment 1(asp.net(MVC))\\wwwroot\\Uploads\\244031084058beef.jpeg",
